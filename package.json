@@ -1,0 +1,28 @@
+{
+  "name": "char-sortinator",
+  "version": "1.0.0",
+  "description": "front-end-prompt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnylau/Char-Sortinator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnylau/Char-Sortinator/issues"
+  },
+  "homepage": "https://github.com/jonnylau/Char-Sortinator#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jquery": "^3.3.1",
+    "node": "^9.4.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
